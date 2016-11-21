@@ -1,4 +1,5 @@
-﻿# ruowei
+
+# ruowei
 This is a project for the management of the rights of the club.
 <<<<<<< HEAD
 jiayinpeng
@@ -12,4 +13,4 @@ demodemo
 testtest
 
 hahahahhaa
-
+贾荫鹏pc
