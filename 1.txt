@@ -12,5 +12,9 @@ eeeeeeeeeeeeee
 
 fffffffffffffffffffffffffffff
 
+<<<<<<< HEAD
 hhhhhhhhhhhhhhhhhhh
+=======
+gggggggggggggggggggggggggggggggggggg
+>>>>>>> origin/master
 
