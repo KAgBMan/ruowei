@@ -1,4 +1,4 @@
-
+duan
 # ruowei
 This is a project for the management of the rights of the club.
 <<<<<<< HEAD
@@ -28,4 +28,4 @@ hahahahhaa
 
 
 
-
+段振帅sb
