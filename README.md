@@ -1,4 +1,4 @@
-﻿
+
 # ruowei
 This is a project for the management of the rights of the club.
 <<<<<<< HEAD
@@ -22,6 +22,9 @@ hahahahhaa
 
 
 789abc
+
+
+666666666666666
 
 
 
